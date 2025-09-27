@@ -1,0 +1,1483 @@
+<!DOCTYPE html>
+<html lang="en" class="home-three crm-page">
+
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="description" content="">
+  <meta name="robots" content="INDEX,FOLLOW">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Title -->
+  <title>
+    PosBytz | Best Restaurant POS System & Restaurant Management Software in GCC
+  </title>
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="assets/images/fav.png">
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+  <!-- aos -->
+  <link rel="stylesheet" href="assets/css/aos.css">
+  <!-- Swiper -->
+  <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
+  <!-- Magnific -->
+  <link rel="stylesheet" href="assets/css/magnific-popup.css">
+  <!-- Satoshi -->
+  <link rel="stylesheet" href="assets/css/satoshi.css">
+  <!-- Main css -->
+  <link rel="stylesheet" href="assets/css/main.css">
+</head>
+
+<body>
+  
+
+
+
+  <!-- ==================== Scroll to Top End Here ==================== -->
+  <div class="progress-wrap">
+    <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
+      <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98"/>
+    </svg>
+  </div>
+  <!-- ==================== Scroll to Top End Here ==================== -->
+
+
+
+  <!-- ==================== Mobile Menu Start Here ==================== -->
+<div class="mobile-menu d-lg-none d-block scroll-sm position-fixed bg-white tw-w-300-px tw-h-screen overflow-y-auto tw-p-6 tw-z-999 tw--translate-x-full tw-pb-68 ">
+
+    <button type="button" class="close-button position-absolute tw-end-0 top-0 tw-me-2 tw-mt-2 tw-w-605 tw-h-605 rounded-circle d-flex justify-content-center align-items-center text-neutral-900 bg-neutral-200 hover-bg-neutral-900 hover-text-white"> 
+        <i class="ph ph-x"></i>
+    </button>
+
+    <div class="mobile-menu__inner">
+        <a href="index.php" class="mobile-menu__logo">
+            <img src="assets/images/logo.svg" alt="Logo">
+        </a>
+        <div class="mobile-menu__menu">
+            <!-- Nav menu Start -->
+<ul class="nav-menu d-lg-flex align-items-center nav-menu--mobile d-block tw-mt-8">
+  
+	<li class="nav-menu__item">
+    <a href="#home" class="nav-menu__link hover--translate-y-1 text-heading tw-py-9 fw-semibold w-100">Home</a>
+</li>
+<li class="nav-menu__item">
+    <a href="#trusted" class="nav-menu__link hover--translate-y-1 text-heading tw-py-9 fw-semibold w-100">Trusted By</a>
+</li>
+<li class="nav-menu__item">
+    <a href="#challenges" class="nav-menu__link hover--translate-y-1 text-heading tw-py-9 fw-semibold w-100">Solutions</a>
+</li>
+<li class="nav-menu__item">
+    <a href="#why-choose-us" class="nav-menu__link hover--translate-y-1 text-heading tw-py-9 fw-semibold w-100">Why Choose Us</a>
+</li>
+<li class="nav-menu__item">
+    <a href="#why-posbytz" class="nav-menu__link hover--translate-y-1 text-heading tw-py-9 fw-semibold w-100">Why PosBytz</a>
+</li>
+<li class="nav-menu__item">
+    <a href="#features" class="nav-menu__link hover--translate-y-1 text-heading tw-py-9 fw-semibold w-100">Features</a>
+</li>
+<li class="nav-menu__item">
+    <a href="#success-stories" class="nav-menu__link hover--translate-y-1 text-heading tw-py-9 fw-semibold w-100">Success Stories</a>
+</li>
+<li class="nav-menu__item">
+    <a href="#faq" class="nav-menu__link hover--translate-y-1 text-heading tw-py-9 fw-semibold w-100">FAQ</a>
+</li>
+<li class="nav-menu__item">
+    <a href="#contact" class="nav-menu__link hover--translate-y-1 text-heading tw-py-9 fw-semibold w-100">Contact</a>
+</li>
+
+</ul>
+<!-- Nav menu End  -->
+        </div>
+        <a href="#" class="btn btn-main-two hover-style-two button--stroke d-sm-none d-inline-flex align-items-center justify-content-center tw-gap-5 group active--translate-y-2 tw-px-8 rounded-pill tw-mt-6" data-block="button">
+            <span class="button__flair"></span>
+           <span class="button__label">Get Started</span>
+        </a>
+    </div>
+</div>
+<!-- ==================== Mobile Menu End Here ==================== -->
+
+<div id="smooth-wrapper">
+    
+    <!-- ==================== Header Three Start Here ==================== -->
+<header class="header py-0 top-0 tw-start-0 tw-end-0 w-100 tw-z-99 tw-mt-8 position-absolute">
+  <div class="container">
+    <div
+      class="header-three__inner py-2 py-lg-0 tw-lg-ps-12 ps-4 tw-pe-705 bg-white-06 transition-all tw-rounded-lg common-shadow-eleven">
+      <nav class="d-flex align-items-center justify-content-between position-relative">
+        <!-- Logo Start -->
+        <div class="logo">
+          <a href="index.php" class="link hover--translate-y-1 active--translate-y-scale-9">
+            <img src="assets/images/logo.svg" alt="Logo" class="max-w-200-px">
+          </a>
+        </div>
+        <!-- Logo End  -->
+
+        <!-- Menu Start  -->
+        <div class="header-menu d-lg-block d-none">
+          <!-- Nav menu Three Start -->
+<ul class="nav-menu d-lg-flex align-items-center tw-gap-7">
+<li class="nav-menu__item">
+    <a href="#home" class="nav-menu__link hover--translate-y-1 tw-py-9 fw-semibold w-100">Home</a>
+</li>
+<li class="nav-menu__item">
+    <a href="#trusted" class="nav-menu__link hover--translate-y-1  tw-py-9 fw-semibold w-100">Trusted By</a>
+</li>
+<li class="nav-menu__item">
+    <a href="#challenges" class="nav-menu__link hover--translate-y-1  tw-py-9 fw-semibold w-100">Solutions</a>
+</li>
+<li class="nav-menu__item">
+    <a href="#why-choose-us" class="nav-menu__link hover--translate-y-1  tw-py-9 fw-semibold w-100">Why Choose Us</a>
+</li>
+<li class="nav-menu__item">
+    <a href="#why-posbytz" class="nav-menu__link hover--translate-y-1 tw-py-9 fw-semibold w-100">Why PosBytz</a>
+</li>
+<li class="nav-menu__item">
+    <a href="#features" class="nav-menu__link hover--translate-y-1 tw-py-9 fw-semibold w-100">Features</a>
+</li>
+<li class="nav-menu__item">
+    <a href="#success-stories" class="nav-menu__link hover--translate-y-1 tw-py-9 fw-semibold w-100">Success Stories</a>
+</li>
+<li class="nav-menu__item">
+    <a href="#faq" class="nav-menu__link hover--translate-y-1 tw-py-9 fw-semibold w-100">FAQ</a>
+</li>
+<li class="nav-menu__item">
+    <a href="#contact" class="nav-menu__link hover--translate-y-1 tw-py-9 fw-semibold w-100">Contact</a>
+</li>
+
+</ul>
+<!-- Nav menu Three End  -->
+        </div>
+        <!-- Menu End  -->
+
+        <!-- Header Right start -->
+        <div class="d-flex align-items-center tw-gap-6">
+          <div class="d-flex align-items-center tw-gap-6">
+           
+
+            <a href=""
+              class="hover--translate-y-1 active--translate-y-scale-9 btn btn-main-two hover-style-two button--stroke d-lg-flex d-none align-items-center justify-content-center tw-gap-5 group active--translate-y-2 px-xl-4 px-3 tw-rounded-md tw-py-405 fw-bold"
+              data-block="button">
+              <span class="button__flair"></span>
+              <div class="d-flex align-items-center tw-gap-2 z-1">
+                <span class="button__label">Get Started</span>
+                <span class="icon z-1"><i class="ph-fill ph-cloud-arrow-down"></i></span>
+              </div>
+            </a>
+          </div>
+          <button type="button" class="toggle-mobileMenu leading-none d-lg-none tw-text-9" style="color: #ff8c00;">
+            <i class="ph ph-list"></i>
+          </button>
+        </div>
+        <!-- Header Right End  -->
+      </nav>
+    </div>
+  </div>
+</header>
+<!-- ==================== Header Three End Here ==================== -->
+    
+
+    <div id="smooth-content">
+
+<!-- ============================== Banner Three Section Start ========================== -->
+<section class="banner-three gradient-bg-five position-relative z-1 " id="home">
+	
+    <div class="container">
+        <div class="row gy-5">
+            <!-- Banner Content -->
+            <div class="col-lg-6">
+                <div class="banner-three-content ">
+                    <h1 class="splitTextStyleOne text-capitalize tw-leading-none">
+                        Looking for the best restaurant POS system and restaurant management software to simplify your daily operations?
+                    </h1>
+                    <p class="splitTextStyleOne  fw-bold tw-text-lg tw-mt-8">
+                        <span class="text-yellow">PosBytz</span> helps restaurant owners, general managers, and franchise operators by:
+                    </p>
+<div class="tw-mt-9 d-flex flex-column align-items-start tw-gap-6">
+            <div class="banner-1 d-flex align-items-center tw-gap-4  rounded-pill animation-item aos-init aos-animate" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="600">
+              <img src="assets/images/check-star.png" alt="Check Icon" class="animate__bounce">
+              <span class="fw-bold text-heading">Streamlining billing and order management with an easy-to-use <strong>POS software for restaurants</strong>, accessible on any device</span>
+            </div>
+            <div class="banner-1 d-flex align-items-center tw-gap-4  rounded-pill animation-item aos-init aos-animate" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
+              <img src="assets/images/check-star.png" alt="Check Icon" class="animate__bounce">
+              <span class="fw-bold text-heading">Automating <strong>restaurant inventory management</strong> and recipe tracking to reduce waste and control costs</span>
+            </div>
+            <div class="banner-1 d-flex align-items-center tw-gap-4 rounded-pill animation-item aos-init aos-animate" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="1000">
+              <img src="assets/images/check-star.png" alt="Check Icon" class="animate__bounce">
+              <span class="fw-bold text-heading">Engaging customers through integrated <strong>restaurant CRM software</strong>, loyalty programs, feedback tools, and seamless delivery integrations</span>
+            </div>
+          </div>
+                  
+
+                    <div class="d-flex align-items-center tw-gap-7 tw-mt-11">
+                        <a href="javascript:void(0)" class="btn btn-main hover-style-one tw-px-13 tw-rounded-md tw-py-6 fw-bold d-flex align-items-center tw-gap-2">
+                            Get Your Free Demo
+                            <img src="assets/images/download-cloud-icon.png" alt="Icon">
+                        </a>
+                  
+<!--
+                        <a href="javascript:void(0)" class="btn btn-main hover-style-one tw-px-13 tw-rounded-md tw-py-6 fw-bold d-flex align-items-center tw-gap-2">
+                            Watch Product Video
+                            <img src="assets/images/download-cloud-icon.png" alt="Icon">
+                        </a>
+-->
+                    </div>
+                </div>
+            </div>
+
+            <!-- Banner Image -->
+            <div class="col-lg-6">
+                <div class="banner-three-thumb position-relative ">
+					
+                    <img src="assets/images/12" alt="Banner Image" class="img-fluid">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ============================== Banner Three Section End ========================== -->
+
+
+		<!-- ============================== Brand Three Section Start ========================== -->
+<div class="brand-three py-80" id="trusted">
+    <div class="container">
+        <div class="text-center tw-mb-16">
+            <h5 class="mb-0 line-clamp-1">
+               Trusted by Leading GCC Restaurants
+            </h5>
+        </div>
+
+        <div class="brand-three-slider swiper left-right-gradient gradient-width-200">
+            <div class="swiper-wrapper">
+                
+                <div class="swiper-slide d-flex align-items-center justify-content-center" data-aos="fade-up" data-aos-duration="600">
+                    <img src="assets/images/Aremnico-Logi.jpeg" alt="Aremnico Logo">
+                </div>
+                <div class="swiper-slide d-flex align-items-center justify-content-center" data-aos="fade-up" data-aos-duration="700">
+                    <img src="assets/images/Bait-Al-Mandi.png" alt="Bait Al Mandi Logo">
+                </div>
+                <div class="swiper-slide d-flex align-items-center justify-content-center" data-aos="fade-up" data-aos-duration="800">
+                    <img src="assets/images/Besan-Flowers.png" alt="Besan Flowers Logo">
+                </div>
+                <div class="swiper-slide d-flex align-items-center justify-content-center" data-aos="fade-up" data-aos-duration="600">
+                    <img src="assets/images/Cuppio-Logo.jpg" alt="Cuppio Logo">
+                </div>
+                <div class="swiper-slide d-flex align-items-center justify-content-center" data-aos="fade-up" data-aos-duration="700">
+                    <img src="assets/images/elite_fish.png" alt="Elite Fish Logo">
+                </div>
+                <div class="swiper-slide d-flex align-items-center justify-content-center" data-aos="fade-up" data-aos-duration="800">
+                    <img src="assets/images/Flowork.png" alt="Flowork Logo">
+                </div>
+                <div class="swiper-slide d-flex align-items-center justify-content-center" data-aos="fade-up" data-aos-duration="600">
+                    <img src="assets/images/NUKKAD-Dhaba-Logo.png" alt="Nukkad Dhaba Logo">
+                </div>
+                <div class="swiper-slide d-flex align-items-center justify-content-center" data-aos="fade-up" data-aos-duration="700">
+                    <img src="assets/images/Sams-Pizza.png" alt="Sams Pizza Logo">
+                </div>
+                <div class="swiper-slide d-flex align-items-center justify-content-center" data-aos="fade-up" data-aos-duration="700">
+                    <img src="assets/images/tabiboba_new_pink_logo-1.png" alt="Tabiboba Logo">
+                </div>
+                <div class="swiper-slide d-flex align-items-center justify-content-center" data-aos="fade-up" data-aos-duration="700">
+                    <img src="assets/images/tails_of_city.jpg" alt="Tails of City Logo">
+                </div>
+              
+
+            </div>
+        </div>
+    </div>
+</div>
+<!-- ============================== Brand Three Section End ========================== -->
+
+<section class="faq py-120 position-relative z-1 overflow-hidden" id="challenges">
+    <img src="assets/images/faq-bg.png" alt="" class="position-absolute tw-start-0 top-0 w-100 h-100 z-n1">
+    
+    <div class="container">
+        <div class="tw-mb-8">
+            <span class="tw-py-1 tw-px-705 bg-white text-main-600 tw-text-sm fw-bold text-capitalize rounded-pill tw-mb-205">PosBytz solution</span>
+            <div class="d-flex flex-lg-nowrap flex-wrap justify-content-between align-items-center">
+                <div >
+                    <h3 class="splitTextStyleOne fw-light tw-leading-104" style="perspective: 100px;"><div class="split-line" style="display: block; text-align: start; position: relative; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);"><span class="d-inline-block fw-semibold"> Real Challenges Restaurant Owners Face & How PosBytz Solves Them</span> </div></h3>
+                </div>
+                
+            </div>
+        </div>
+
+        <div class="row gy-4">
+          <div class="col-lg-5">
+  
+              <div class="accordion common-accordion accordion-border-left" id="accordionExample">
+                  <div class="accordion-item tw-py-4 tw-px-40-px tw-rounded-xl bg-transparent border-0 mb-0 aos-init" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
+                      <h5 class="accordion-header">
+                          <button class="accordion-button tw-pb-8 tw-pt-4 shadow-none px-0 bg-transparent h5" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo" data-img="assets/images/faq-thumb1.png">
+                             Billing errors and slow orders
+                          </button>
+                      </h5>
+                      <div id="collapseTwo" class="accordion-collapse collapse show" data-bs-parent="#accordionExample" style="">
+                          <div class="accordion-body p-0">
+                              <p class="text-neutral-500">Intuitive, multi-device restaurant POS system for fast, error-free billing</p>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="accordion-item tw-py-4 tw-px-40-px tw-rounded-xl bg-transparent border-0 mb-0 aos-init" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
+                      <h5 class="accordion-header">
+                          <button class="accordion-button tw-pb-8 tw-pt-4 shadow-none px-0 bg-transparent h5 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne" data-img="assets/images/faq-thumb2.png">
+                              Losing customers due to engagement
+                          </button>
+                      </h5>
+                      <div id="collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionExample" style="">
+                          <div class="accordion-body p-0">
+                              <p class="text-neutral-500">Integrated restaurant CRM software with loyalty programs and automated campaigns</p>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="accordion-item tw-py-4 tw-px-40-px tw-rounded-xl bg-transparent border-0 mb-0 aos-init" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
+                      <h5 class="accordion-header">
+                          <button class="accordion-button tw-pb-8 tw-pt-4 shadow-none px-0 bg-transparent h5 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree" data-img="assets/images/faq-thumb3.png">
+                              Complex inventory causing waste
+                          </button>
+                      </h5>
+                      <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample" style="">
+                          <div class="accordion-body p-0">
+                              <p class="text-neutral-500">Real-time restaurant inventory management tracking with automated alerts</p>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="accordion-item tw-py-4 tw-px-40-px tw-rounded-xl bg-transparent border-0 mb-0 aos-init" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
+                      <h5 class="accordion-header">
+                          <button class="accordion-button tw-pb-8 tw-pt-4 shadow-none px-0 bg-transparent h5 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour" data-img="assets/images/faq-thumb4.png">
+                              Disconnected online ordering
+                          </button>
+                      </h5>
+                      <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample" style="">
+                          <div class="accordion-body p-0">
+                              <p class="text-neutral-500">Central platform for online ordering system & delivery management</p>
+                          </div>
+                      </div>
+                  </div>
+				 
+              </div>
+          </div>
+          <div class="col-lg-7">
+              <div class="position-relative tw-pb-8 tw-ps-12 h-100">
+                <div class="bg-white tw-p-205 tw-rounded-3xl h-100 tw-min-h-400-px">
+                    <img src="assets/images/faq-thumb1.png" id="faqImage" alt="Image" class="w-100 h-100 object-fit-cover tw-rounded-2xl tw-duration-300" style="opacity: 1;">
+                </div>
+                <img src="assets/images/faq-img-1.png" alt="" class="position-absolute top-0 tw-end-0 tw-mt-9 tw--me-48-px">
+                <img src="assets/images/faq-img-2.png" alt="" class="position-absolute bottom-0 tw-end-0 tw--me-32-px">
+                <img src="assets/images/faq-img-3.png" alt="" class="position-absolute bottom-0 tw-start-0 tw--ms-24-px">
+              </div>
+          </div>
+      </div>
+
+    </div>
+</section>
+		
+		
+		  <!-- ============================ Features Three section start ============================ -->
+<section class="features-three py-120 position-relative z-1" id="why-choose-us">
+    <img src="assets/images/gradient-blue-yellow.png" alt="Gradient" class="position-absolute tw-end-0 bottom-0 z-n1">
+    
+    <div class="container">
+        <div class="d-flex align-items-center justify-content-between tw-gap-6 tw-mb-12">
+            <div>
+                <h2 class="splitTextStyleOne text-heading text-capitalize"> Reasons to Choose PosBytz 
+                   
+                </h2>
+				 <p class="splitTextStyleOne text-neutral-500 tw-mt-8  fw-medium">Automate your restaurant operations effortlessly. Increase profits and improve customer experiences with a system designed for GCC restaurants.</p>
+            </div>
+            
+        </div>
+        
+     <div class="row gy-4">
+  <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="700">
+    <div class="row gy-4">
+      <div class="col-lg-12">
+        <div class="group-item tw-rounded-xl border border-neutral-200 tw-pt-12 tw-pb-15 tw-px-9 bg-neutral-50 hover-gradient-bg-five group animation-item tw-duration-300 position-relative z-1">
+          <div class="d-flex align-items-center justify-content-between tw-gap-2">
+            <h5 class="group-hover-text-white tw-duration-300 max-w-194-px splitTextStyleOne">Effortless automation</h5>
+            <span class="group-hover-item-text-invert tw-duration-300 animate__heartBeat">
+              <img src="assets/images/automation.png" alt="Icon" style="width:50px;">
+            </span>
+          </div>
+          <p class="text-neutral-500 max-w-278-px tw-mt-10 group-hover-text-white tw-duration-300">
+            Streamline sales, online ordering, delivery integrations, inventory management, and instant Profit &amp; Loss reports anytime
+          </p>
+        </div>
+      </div>
+      <div class="col-lg-12">
+        <div class="group-item tw-rounded-xl border border-neutral-200 tw-pt-12 tw-pb-15 tw-px-9 bg-neutral-50 hover-gradient-bg-five group animation-item tw-duration-300 position-relative z-1">
+          <div class="d-flex align-items-center justify-content-between tw-gap-2">
+            <h5 class="group-hover-text-white tw-duration-300 max-w-194-px splitTextStyleOne">Increase sales &amp; profits</h5>
+            <span class="group-hover-item-text-invert tw-duration-300 animate__heartBeat">
+              <img src="assets/images/crm%20(1).png" alt="Icon" style="width:50px;">
+            </span>
+          </div>
+          <p class="text-neutral-500 max-w-278-px tw-mt-10 group-hover-text-white tw-duration-300">
+            Gain powerful insights into food costing, expenses, and sales through integrated accounting software
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-lg-4 col-sm-6" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="700">
+    <div class="row gy-4">
+      <div class="col-lg-12">
+        <div class="group-item tw-rounded-xl border border-neutral-200 tw-pt-12 tw-pb-15 tw-px-9 bg-neutral-50 hover-gradient-bg-five group animation-item tw-duration-300 position-relative z-1">
+          <div class="d-flex align-items-center justify-content-between tw-gap-2">
+            <h5 class="group-hover-text-white tw-duration-300 max-w-194-px splitTextStyleOne">Accurate inventory</h5>
+            <span class="group-hover-item-text-invert tw-duration-300 animate__heartBeat">
+              <img src="assets/images/performance.png" alt="Icon" style="width:50px;">
+            </span>
+          </div>
+          <p class="text-neutral-500 max-w-278-px tw-mt-10 group-hover-text-white tw-duration-300">
+            Seamlessly track ingredients and recipes, control wastage, maintain menu consistency with restaurant inventory software
+          </p>
+        </div>
+      </div>
+      <div class="col-lg-12">
+        <div class="group-item tw-rounded-xl border border-neutral-200 tw-pt-12 tw-pb-15 tw-px-9 bg-neutral-50 hover-gradient-bg-five group animation-item tw-duration-300 position-relative z-1">
+          <div class="d-flex align-items-center justify-content-between tw-gap-2">
+            <h5 class="group-hover-text-white tw-duration-300 max-w-194-px splitTextStyleOne">Better customer experience</h5>
+            <span class="group-hover-item-text-invert tw-duration-300 animate__heartBeat">
+              <img src="assets/images/qr-code.png" alt="Icon" style="width:50px;">
+            </span>
+          </div>
+          <p class="text-neutral-500 max-w-278-px tw-mt-10 group-hover-text-white tw-duration-300">
+            Innovative QR code ordering for contactless, faster, safer service
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-lg-4" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
+    <div class="row gy-4">
+      <div class="col-lg-12 col-sm-6">
+        <div class="group-item tw-rounded-xl border border-neutral-200 tw-pt-12 tw-pb-15 tw-px-9 bg-neutral-50 hover-gradient-bg-five group animation-item tw-duration-300 position-relative z-1">
+          <div class="d-flex align-items-center justify-content-between tw-gap-2">
+            <h5 class="group-hover-text-white tw-duration-300 max-w-194-px splitTextStyleOne">Build loyalty</h5>
+            <span class="group-hover-item-text-invert tw-duration-300 animate__heartBeat">
+              <img src="assets/images/customer-service.png" alt="Icon" style="width:50px;">
+            </span>
+          </div>
+          <p class="text-neutral-500 max-w-278-px tw-mt-10 group-hover-text-white tw-duration-300">
+            Launch your branded online ordering with CRM to retain customers and increase repeat business
+          </p>
+        </div>
+      </div>
+      <div class="col-lg-12 col-sm-6">
+        <div class="group-item tw-rounded-xl border border-neutral-200 tw-pt-12 tw-pb-15 tw-px-9 bg-neutral-50 hover-gradient-bg-five group animation-item tw-duration-300 position-relative z-1">
+          <div class="d-flex align-items-center justify-content-between tw-gap-2">
+            <h5 class="group-hover-text-white tw-duration-300 max-w-194-px splitTextStyleOne">Scale confidently</h5>
+            <span class="group-hover-item-text-invert tw-duration-300 animate__heartBeat">
+              <img src="assets/images/kitchen.png" alt="Icon" style="width:50px;">
+            </span>
+          </div>
+          <p class="text-neutral-500 max-w-278-px tw-mt-10 group-hover-text-white tw-duration-300">
+            Modular, cloud-based platform grows with your business, supporting quick-service, fine dining, cloud kitchens, and multi-branch operations
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+	</div>
+</section>
+<!-- ============================ Features Three section End ============================ -->
+
+<section class="features-four"  id="why-posbytz">
+    <div class="py-120 tw-mx-48-px position-relative">
+        <img src="assets/images/mash-gradient-bg2.png" alt="Mash Gradient BG" class="w-100 h-100 position-absolute top-0 tw-start-0 z-n1">
+        
+        <div class="max-w-1820-px mx-auto">
+            <div class="container">
+                <div class="tw-mb-12 max-w-570-px">
+                    <h2 class="splitTextStyleOne text-heading text-capitalize" style="perspective: 100px;"><div class="split-line" style="display: block; text-align: start; position: relative; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);"> Why PosBytz?
+ </div></h2>
+                </div>
+    
+                <div class="row g-32-px">
+                <!-- Block 1 -->
+  <div class="col-md-4 aos-init" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="1000">
+    <div class="features-four-item bg-white tw-rounded-40-px tw-px-54-px tw-pt-16 tw-pb-180-px position-relative h-100">
+      <h3 class="tw-mb-4 fw-semibold max-w-250-px splitTextStyleOne">
+        <div class="split-line">Trusted by</div>
+        <div class="split-line">GCC Restaurants</div>
+      </h3>
+      <p class="text-neutral-600 tw-text-lg fw-medium">
+        Ensuring compliance with local VAT and regulations, providing peace of mind for restaurant operations.
+      </p>
+      <img src="assets/images/why1.png" alt="Trusted by GCC Restaurants" class="max-w-40-percent position-absolute bottom-0 tw-start-45 tw-me-5 tw-rounded-2xl">
+    </div>
+  </div>
+
+  <!-- Block 2 -->
+  <div class="col-md-4 aos-init" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="1000">
+    <div class="features-four-item bg-white tw-rounded-40-px tw-px-54-px tw-pt-16 tw-pb-180-px position-relative h-100">
+      <h3 class="tw-mb-4 fw-semibold max-w-250-px splitTextStyleOne">
+        <div class="split-line">Bilingual &amp;</div>
+        <div class="split-line">Scalable System</div>
+      </h3>
+      <p class="text-neutral-600 tw-text-lg fw-medium">
+        Proven restaurant management system with Arabic/English interfaces, cloud based for quick-service, fine dining, and cloud kitchen solutions.
+      </p>
+      <img src="assets/images/why2.png" alt="Bilingual & Scalable System" class="max-w-40-percent position-absolute bottom-0 tw-start-45 tw-me-5  tw-rounded-2xl">
+    </div>
+  </div>
+
+  <!-- Block 3 -->
+  <div class="col-md-4 aos-init" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="1000">
+    <div class="features-four-item bg-white tw-rounded-40-px tw-px-54-px tw-pt-16 tw-pb-180-px position-relative h-100">
+      <h3 class="tw-mb-4 fw-semibold max-w-250-px splitTextStyleOne">
+        <div class="split-line">Comprehensive</div>
+        <div class="split-line">ERP Suite</div>
+      </h3>
+      <p class="text-neutral-600 tw-text-lg fw-medium">
+        Includes POS system, online ordering, inventory, accounting, CRM, and payroll fully integrated for smooth operations.
+      </p>
+      <img src="assets/images/why3.png" alt="Comprehensive ERP Suite" class="max-w-40-percent position-absolute bottom-0 tw-start-45 tw-me-5  tw-rounded-2xl">
+    </div>
+  </div>
+
+  <!-- Block 4 -->
+  <div class="col-md-4 aos-init" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="1000">
+    <div class="features-four-item bg-white tw-rounded-40-px tw-px-54-px tw-pt-16 tw-pb-180-px position-relative h-100">
+      <h3 class="tw-mb-4 fw-semibold max-w-250-px splitTextStyleOne">
+        <div class="split-line">Seamless</div>
+        <div class="split-line">Delivery Integration</div>
+      </h3>
+      <p class="text-neutral-600 tw-text-lg fw-medium">
+        Integrates with Talabat, Careem, UberEats, Deliveroo, and other major delivery platforms for efficient order management.
+      </p>
+      <img src="assets/images/why4.png" alt="Seamless Delivery Integration" class="max-w-40-percent position-absolute bottom-0 tw-start-45 tw-me-5  tw-rounded-2xl">
+    </div>
+  </div>
+
+  <!-- Block 5 -->
+  <div class="col-md-4 aos-init" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="1000">
+    <div class="features-four-item bg-white tw-rounded-40-px tw-px-54-px tw-pt-16 tw-pb-180-px position-relative h-100">
+      <h3 class="tw-mb-4 fw-semibold max-w-250-px splitTextStyleOne">
+        <div class="split-line">Dedicated</div>
+        <div class="split-line">Regional Support</div>
+      </h3>
+      <p class="text-neutral-600 tw-text-lg fw-medium">
+        Ensures VAT compliance and smooth localized operations for restaurants across GCC.
+      </p>
+      <img src="assets/images/why5.png" alt="Dedicated Regional Support" class="max-w-40-percent position-absolute bottom-0 tw-start-45 tw-me-5  tw-rounded-2xl">
+    </div>
+  </div>
+
+  <!-- Block 6 -->
+  <div class="col-md-4 aos-init" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="1000">
+    <div class="features-four-item bg-white tw-rounded-40-px tw-px-54-px tw-pt-16 tw-pb-180-px position-relative h-100">
+      <h3 class="tw-mb-4 fw-semibold max-w-250-px splitTextStyleOne">
+        <div class="split-line">Lead &amp;</div>
+        <div class="split-line">Contact Management</div>
+      </h3>
+      <p class="text-neutral-600 tw-text-lg fw-medium">
+        Sassly CRM in the past allowing you to manage leads, track contacts, and streamline customer relationships effectively.
+      </p>
+      <img src="assets/images/why6.png" alt="Lead & Contact Management" class="max-w-40-percent position-absolute bottom-0 tw-start-45 tw-me-5  tw-rounded-2xl">
+    </div>
+  </div>
+                  
+				</div>
+    
+            </div>
+        </div>
+    </div>
+</section>
+		
+<div class="features pb-120 sp _relative" id="features">
+  <img src="assets/images/faq-bg.png" alt="" class="position-absolute tw-start-0 top-0 w-100 h-100 z-n1">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 m-auto text-center">
+        <div class="headding1">
+          <h2 data-aos="fade-up" data-aos-duration="1000">Core Features</h2>
+        </div>
+        <div class="space40"></div>
+
+        <!-- TAB HEADERS -->
+        <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist" data-aos="fade-up" data-aos-duration="1100">
+          <li class="nav-item"><button class="nav-link active" id="tab-pos" data-bs-toggle="pill" data-bs-target="#pos" type="button" role="tab">POS</button></li>
+          <li class="nav-item"><button class="nav-link" id="tab-crm" data-bs-toggle="pill" data-bs-target="#crm" type="button" role="tab">CRM</button></li>
+          <li class="nav-item"><button class="nav-link" id="tab-kds" data-bs-toggle="pill" data-bs-target="#kds" type="button" role="tab">KDS Management</button></li>
+          <li class="nav-item"><button class="nav-link" id="tab-recipe" data-bs-toggle="pill" data-bs-target="#recipe" type="button" role="tab">Recipe Management</button></li>
+          <li class="nav-item"><button class="nav-link" id="tab-qr" data-bs-toggle="pill" data-bs-target="#qr" type="button" role="tab">QR Ordering</button></li>
+          <li class="nav-item"><button class="nav-link" id="tab-online" data-bs-toggle="pill" data-bs-target="#online" type="button" role="tab">Online Ordering</button></li>
+          <li class="nav-item"><button class="nav-link" id="tab-accounts" data-bs-toggle="pill" data-bs-target="#accounts" type="button" role="tab">Accounting</button></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="space40"></div>
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="tab-content" id="pills-tabContent">
+
+          <!-- POS -->
+          <div class="tab-pane fade show active" id="pos" role="tabpanel">
+            <div class="features-item-box d-flex align-items-center flex-wrap">
+              <div class="col-lg-7">
+                <div class="features-box">
+                  <h5>Billing errors and slow orders?</h5>
+                  <ul class="tab-list">
+                    <li><img src="assets/images/check-star.png" alt="Check Icon" class="animate__bounce"> Multi-device restaurant POS system for quick and accurate billing anywhere in the restaurant</li>
+                    <li><img src="assets/images/check-star.png" alt="Check Icon" class="animate__bounce"> Real-time table and order tracking ensures smooth communication between staff</li>
+                    <li><img src="assets/images/check-star.png" alt="Check Icon" class="animate__bounce"> Multi-printer and kitchen display system (KDS) integration routes orders instantly</li>
+                  </ul>
+                  <p class="pera"><b>Effect:</b> Faster service, fewer mistakes, more satisfied guests</p>
+                </div>
+              </div>
+              <div class="col-lg-5 text-center">
+                <img src="assets/images/1.png" alt="POS Feature" class="img-fluid rounded">
+              </div>
+            </div>
+          </div>
+
+          <!-- CRM -->
+          <div class="tab-pane fade" id="crm" role="tabpanel">
+            <div class="features-item-box d-flex align-items-center flex-wrap">
+              <div class="col-lg-7">
+                <div class="features-box">
+                  <h5>Low customer retention and manual engagement?</h5>
+                  <ul class="tab-list">
+                    <li><img src="assets/images/check-star.png" alt="Check Icon" class="animate__bounce"> Loyalty programs and automated campaigns to reward and engage patrons</li>
+                    <li><img src="assets/images/check-star.png" alt="Check Icon" class="animate__bounce"> Centralized customer data and feedback management for personalized offers</li>
+                  </ul>
+                  <p class="pera"><b>Effect:</b> Increased repeat business and stronger customer relationships</p>
+                </div>
+              </div>
+              <div class="col-lg-5 text-center">
+                <img src="assets/images/2.png" alt="CRM Feature" class="img-fluid rounded">
+              </div>
+            </div>
+          </div>
+
+          <!-- KDS -->
+          <div class="tab-pane fade" id="kds" role="tabpanel">
+            <div class="features-item-box d-flex align-items-center flex-wrap">
+              <div class="col-lg-7">
+                <div class="features-box">
+                  <h5>Kitchen ticket losses and delays?</h5>
+                  <ul class="tab-list">
+                    <li><img src="assets/images/check-star.png" alt="Check Icon" class="animate__bounce"> Digital order display with clear prioritization and real-time updates</li>
+                    <li><img src="assets/images/check-star.png" alt="Check Icon" class="animate__bounce"> Monitor order status through preparation and serving stages</li>
+                  </ul>
+                  <p class="pera"><b>Effect:</b> Efficient kitchen workflow and on-time service delivery</p>
+                </div>
+              </div>
+              <div class="col-lg-5 text-center">
+                <img src="assets/images/3.png" alt="KDS Feature" class="img-fluid rounded">
+              </div>
+            </div>
+          </div>
+
+          <!-- Recipe Management -->
+          <div class="tab-pane fade" id="recipe" role="tabpanel">
+            <div class="features-item-box d-flex align-items-center flex-wrap">
+              <div class="col-lg-7">
+                <div class="features-box">
+                  <h5>Inconsistent food costs and quality?</h5>
+                  <ul class="tab-list">
+                    <li><img src="assets/images/check-star.png" alt="Check Icon" class="animate__bounce"> Standardize recipes precisely with ingredient and portion control</li>
+                    <li><img src="assets/images/check-star.png" alt="Check Icon" class="animate__bounce"> Automatically adjust restaurant inventory based on production usage</li>
+                    <li><img src="assets/images/check-star.png" alt="Check Icon" class="animate__bounce"> Forecast demand and plan batch production</li>
+                  </ul>
+                  <p class="pera"><b>Effect:</b> Cost control, waste reduction, and consistent quality</p>
+                </div>
+              </div>
+              <div class="col-lg-5 text-center">
+                <img src="assets/images/4.png" alt="Recipe Feature" class="img-fluid rounded">
+              </div>
+            </div>
+          </div>
+
+          <!-- QR Ordering -->
+          <div class="tab-pane fade" id="qr" role="tabpanel">
+            <div class="features-item-box d-flex align-items-center flex-wrap">
+              <div class="col-lg-7">
+                <div class="features-box">
+                  <h5>Long waits and insufficient staff during peak hours?</h5>
+                  <ul class="tab-list">
+                    <li><img src="assets/images/check-star.png" alt="Check Icon" class="animate__bounce"> Contactless QR code ordering for dine-in, takeaway, and pickups</li>
+                    <li><img src="assets/images/check-star.png" alt="Check Icon" class="animate__bounce"> Customers browse, customize, and pay from their mobile phones</li>
+                    <li><img src="assets/images/check-star.png" alt="Check Icon" class="animate__bounce"> Instant sync with POS and KDS for error-free order flow</li>
+                  </ul>
+                  <p class="pera"><b>Effect:</b> Streamlined service, happier guests, reduced staff pressure</p>
+                </div>
+              </div>
+              <div class="col-lg-5 text-center">
+                <img src="assets/images/5.png" alt="QR Ordering Feature" class="img-fluid rounded">
+              </div>
+            </div>
+          </div>
+
+          <!-- Online Ordering -->
+          <div class="tab-pane fade" id="online" role="tabpanel">
+            <div class="features-item-box d-flex align-items-center flex-wrap">
+              <div class="col-lg-7">
+                <div class="features-box">
+                  <h5>Fragmented delivery orders?</h5>
+                  <ul class="tab-list">
+                    <li><img src="assets/images/check-star.png" alt="Check Icon" class="animate__bounce"> Centralized management of orders from Talabat, Careem, UberEats, Deliveroo, and more</li>
+                    <li><img src="assets/images/check-star.png" alt="Check Icon" class="animate__bounce"> Commission-free branded online ordering system for direct orders</li>
+                    <li><img src="assets/images/check-star.png" alt="Check Icon" class="animate__bounce"> Unified sales reporting across channels</li>
+                  </ul>
+                  <p class="pera"><b>Effect:</b> Save time, maximize order accuracy, increase revenue</p>
+                </div>
+              </div>
+              <div class="col-lg-5 text-center">
+                <img src="assets/images/6.png" alt="Online Ordering Feature" class="img-fluid rounded">
+              </div>
+            </div>
+          </div>
+
+          <!-- Accounting -->
+          <div class="tab-pane fade" id="accounts" role="tabpanel">
+            <div class="features-item-box d-flex align-items-center flex-wrap">
+              <div class="col-lg-7">
+                <div class="features-box">
+                  <h5>Complex VAT compliance and payroll issues?</h5>
+                  <ul class="tab-list">
+                    <li><img src="assets/images/check-star.png" alt="Check Icon" class="animate__bounce"> Automated VAT-compliant invoicing tailored to GCC regulations</li>
+                    <li><img src="assets/images/check-star.png" alt="Check Icon" class="animate__bounce"> Integrated payroll, expenses, and financial reporting</li>
+                    <li><img src="assets/images/check-star.png" alt="Check Icon" class="animate__bounce"> Real-time visibility into business financial health</li>
+                  </ul>
+                  <p class="pera"><b>Effect:</b> Ensure compliance, reduce errors, and maintain financial clarity</p>
+                </div>
+              </div>
+              <div class="col-lg-5 text-center">
+                <img src="assets/images/Accounting.png" alt="Accounting Feature" class="img-fluid rounded">
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<style>
+.features .features-item-box {
+  padding: 20px;
+  position: relative;
+  z-index: 99;
+}
+
+.features .features-item-box::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  border-radius: 4px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  background: linear-gradient(99deg, #fff -1001.54%, rgba(255, 255, 255, 0) 127.88%);
+  backdrop-filter: blur(102px);
+  z-index: -2;
+}
+
+.features .features-item-box .features-box {
+  background-color: #eaeaea
+  padding: 40px;
+  position: relative;
+}
+
+
+
+.features .features-box .tab-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.features .features-box .tab-list li {
+/*  color: #fff;  was var(--qt-bg-bg-w) */
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 18px;
+  padding: 6px 0;
+}
+
+.features .features-box .tab-list li span {
+  height: 24px;
+  width: 24px;
+  border-radius: 50%;
+  display: inline-block;
+  background-color: #603BF3; /* was var(--qt-bg-bg-10) */
+  text-align: center;
+  line-height: 24px;
+  color: #fff; /* was var(--qt-bg-bg-w) */
+  margin-right: 6px;
+}
+
+.features .features-box .bottom-headding-area {
+  display: flex;
+  align-items: center;
+}
+
+.features .features-box .bottom-headding-area .image {
+  margin-right: 20px;
+}
+
+.features .features-box .bottom-headding-area .stars {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.features .features-box .bottom-headding-area .stars li {
+  color: #FACD30; /* was var(--qt-bg-bg-11) */
+  display: inline-block;
+}
+
+.features .features-box .bottom-headding-area p.pera {
+  padding-top: 5px;
+}
+
+.features .features-box .features-sidebox-area .btn.btn--ripple {
+  width: 100%;
+  margin-top: 24px;
+}
+
+.features .features-box .features-sidebox {
+  background-color: #373D60; /* was var(--qt-bg-bg-4) */
+  padding: 20px;
+  border-radius: 4px;
+}
+
+.features .features-box .features-sidebox ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.features .features-box .features-sidebox ul li {
+  padding: 16px 0;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 16px;
+  border-bottom: 1px solid #4B5070;
+}
+
+.features .features-box .features-sidebox ul li img {
+  margin-right: 8px;
+}
+
+.features .features-box .features-sidebox ul li:last-child {
+  border: none;
+  padding-bottom: 0;
+}
+
+.features .features-box .features-sidebox ul li:first-child {
+  padding-top: 0;
+}
+
+/* Nav Pills */
+.features .nav.nav-pills {
+    background-color: #ff8c00;
+    padding: 6px 24px;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    justify-content: space-between;
+}
+
+.features .nav.nav-pills li button {
+    padding: 14px 16px;
+    border-radius: 4px;
+    background-color: #ffffff;
+    margin: 16px 0;
+    color: #000000;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 16px;
+}
+.features .nav.nav-pills li button.active {
+    border-radius: 4px;
+    border-radius: 4px;
+    background: linear-gradient(95deg, #07112d 0.75%, #07112d 101.34%);
+    color: white;
+}
+.shape1 {
+  position: absolute;
+  top: -40px;
+  left: 0;
+  z-index: -2;
+}
+
+.shape2 {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: -2;
+}
+
+.tab-pane.fade {
+  transform: rotateX(30deg) translateY(50px);
+  opacity: 0;
+}
+
+.tab-pane.show.active {
+  transform: rotateX(0) translateY(0);
+  transition: all 0.5s;
+  opacity: 1;
+}
+
+.tab-pane.show.active .features-item-box .features-box::before {
+  opacity: 1;
+  transition: all 0.4s;
+}
+
+.features-left {
+  padding-left: 60px;
+}
+
+.features-right {
+  padding-right: 60px;
+}
+
+@media (max-width: 991px) {
+  .features-left,
+  .features-right {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+.feratures-page-area .image img {
+  width: 100%;
+}
+
+@keyframes animation2 {
+  from {
+    transform: translateY(0);
+    opacity: 0.3;
+  }
+  to {
+    transform: translateY(40px);
+    opacity: 0.6;
+  }
+}
+
+</style>
+
+	
+		
+		    <!-- ============================ Testimonials Four section start ============================= -->
+<section class="testimonials-four py-80 position-relative z-1" id="success-stories">
+    <img src="assets/images/faq-bg.png" alt="Gradient BG" class="position-absolute tw-start-0 top-0 w-100 h-100 z-n1">
+    
+    <div class="container">
+        <div class="row gy-5">
+            <div class="col-lg-6">
+                <div class="">
+                    <div class="tw-mb-10">
+                                   <h4 class="tw-mb-2 fw-bold line-clamp-1 font-caveat  text-capitalize text-crm">with PosBytz in GCC restaurants</h4>
+                        <h2 class="splitTextStyleOne  text-capitalize">
+                            Customer Success Stories
+                        </h2>
+                        <p class="splitTextStyleOne  tw-mt-8 max-w-570-px fw-normals">  Discover real success stories from GCC restaurants that improved efficiency, increased sales, and delighted customers using PosBytz.</p>
+                    </div>
+                    <div class="tw-mt-12 d-flex align-items-center tw-gap-405 flex-sm-nowrap flex-wrap">
+                        <div class="tw-rounded-xl bg-white-06 tw-py-205 tw-px-5 d-flex align-items-center tw-gap-4">
+                            <span>
+                                <img src="assets/images/google.png" alt="Icon" style="width:50px">
+                            </span>
+                            <div class="">
+                                <div class="d-flex align-items-center tw-gap-05">
+                                    <span class="text-orange tw-text-lg"><i class="ph-fill ph-star"></i></span>
+                                    <span class="text-orange tw-text-lg"><i class="ph-fill ph-star"></i></span>
+                                    <span class="text-orange tw-text-lg"><i class="ph-fill ph-star"></i></span>
+                                    <span class="text-orange tw-text-lg"><i class="ph-fill ph-star"></i></span>
+                                    <span class="text-orange tw-text-lg"><i class="ph-fill ph-star"></i></span>
+                                </div>
+                                <div class="d-flex align-items-center tw-gap-2">
+                                    <span class="tw-text-xs fw-bold">4.8</span>
+                                    <span class="tw-text-xs fw-normal">score, 17 reviews</span>
+                                </div>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="testimonials-four-slider swiper position-relative">
+                    <div class="swiper-wrapper">
+     <!-- Testimonial 1 -->
+        <div class="swiper-slide" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="600">
+            <div class="bg-white tw-rounded-2xl common-shadow-twentySix box-layer tw-mb-12">
+                <div class="box-layer-two tw-p-54-px tw-rounded-2xl bg-white">
+                    <span class="tw-mb-5 animate-left-right animation-delay-3 tw-duration-200">
+                        <img src="assets/images/tehran_taste_persia-85x90.png" alt="Logo" class="animate__flipInY">
+                    </span>
+                    <p class="text-heading h3 fw-medium font-body tw-leading-153 animate-left-right animation-delay-2 tw-duration-200">
+                        “I have been using PosBytz for more than two years, would definitely recommend to all my fellow restaurant owners given the fact it gives complete control over your business. Best would be the branded apps and online ordering platform integrated with POS and inventory.”
+                    </p>
+                    <span class="d-block tw-h-px bg-neutral-200 tw-my-6"></span>
+                    <div class="d-flex align-items-center justify-content-between animate-left-right animation-delay-3">
+                        <div class="d-flex align-items-center tw-gap-6 tw-duration-200">
+                          
+                            <div>
+                                <h6>Tehran</h6>
+                                <span class="text-neutral-600">Owner - Taste Of Persia</span>
+                            </div>
+                        </div>
+                        <div>
+                            <img src="assets/images/ratings.svg" alt="Rating">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Testimonial 2 -->
+        <div class="swiper-slide" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="600">
+            <div class="bg-white tw-rounded-2xl common-shadow-twentySix box-layer tw-mb-12">
+                <div class="box-layer-two tw-p-54-px tw-rounded-2xl bg-white">
+                    <span class="tw-mb-5 animate-left-right animation-delay-3 tw-duration-200">
+                        <img src="assets/images/Al-karakand-e1695319023203-83x71.png" alt="Logo" class="animate__flipInY">
+                    </span>
+                    <p class="text-heading h3 fw-medium font-body tw-leading-153 animate-left-right animation-delay-2 tw-duration-200">
+                        “We have recently migrated our software to PosBytz so far have been always improvising the features based on request and strongly recommend for F&B groups managing complex restaurant operations with multiple brands from purchases, inventory, transfers, Accounting to P&L reports. Integrated QR code ordering system with POS works seamlessly and gives a great customer experience.”
+                    </p>
+                    <span class="d-block tw-h-px bg-neutral-200 tw-my-6"></span>
+                    <div class="d-flex align-items-center justify-content-between animate-left-right animation-delay-3">
+                        <div class="d-flex align-items-center tw-gap-6 tw-duration-200">
+                            
+                            <div>
+                                <h6>Alkarkand Abha</h6>
+                                <span class="text-neutral-600">Operations Head - KSA</span>
+                            </div>
+                        </div>
+                        <div>
+                            <img src="assets/images/ratings.svg" alt="Rating">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Testimonial 3 -->
+        <div class="swiper-slide" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="600">
+            <div class="bg-white tw-rounded-2xl common-shadow-twentySix box-layer tw-mb-12">
+                <div class="box-layer-two tw-p-54-px tw-rounded-2xl bg-white">
+                    <span class="tw-mb-5 animate-left-right animation-delay-3 tw-duration-200">
+                        <img src="assets/images/Sams-Pizza-85x90.png" alt="Logo" class="animate__flipInY">
+                    </span>
+                    <p class="text-heading h3 fw-medium font-body tw-leading-153 animate-left-right animation-delay-2 tw-duration-200">
+                        “We are a traditional Italian cuisine based brand. Have been using PosBytz for our Restaurant Management operations and so far there has been no issues with respect to the software and as a owner can able see my business online from anywhere. PosBytz is very easy to use for setting up menu, ingredients/recipes, POS, inventory etc.”
+                    </p>
+                    <span class="d-block tw-h-px bg-neutral-200 tw-my-6"></span>
+                    <div class="d-flex align-items-center justify-content-between animate-left-right animation-delay-3">
+                        <div class="d-flex align-items-center tw-gap-6 tw-duration-200">
+                            
+                            <div>
+                                <h6>Sam's Pasta Pizza</h6>
+                                <span class="text-neutral-600">Outlet Manager - Qatar</span>
+                            </div>
+                        </div>
+                        <div>
+                            <img src="assets/images/ratings.svg" alt="Rating">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+ 
+                   
+					</div>
+                </div>
+                
+                <div class="tw-w-84-px tw-h-84-px rounded-circle bg-white d-flex flex-column tw-gap-2 justify-content-center align-items-center position-absolute tw-end-0 top-50 translate-middle-y z-2 common-shadow-twentyFour tw-me-16">
+                    <button type="button" class="tw-text-lg tw-leading-none text-heading hover-text-main-600 tw-px-2 tw-pt-2" id="testimonials-four-next">
+                        <i class="ph-bold ph-caret-up"></i>
+                    </button>
+                    <button type="button" class="tw-text-lg tw-leading-none text-heading hover-text-main-600 tw-px-2 tw-pb-2" id="testimonials-four-prev">
+                        <i class="ph-bold ph-caret-down"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ============================ Testimonials Four section End ============================= -->
+
+
+	<!-- ============================== Faq Section Start ============================== -->
+			<section class="py-120" id="faq">
+				<div class="container">
+					<div class="row gy-4">
+						<div class="col-lg-5">
+							<div class="">
+								<h3 class="splitTextStyleOne text-heading text-capitalize">
+								    Have questions about managing your restaurant efficiently? 
+								</h3>
+								<p class="splitTextStyleOne text-neutral-500 tw-mt-8 max-w-500-px tw-leading-212 fw-medium"> Discover how PosBytz simplifies POS, cloud kitchens, and CRM operations. 
+            Get answers to the most common queries from restaurant owners and managers.</p>
+
+								<div class="tw-mt-9" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="900" >
+									<a href="#" class="hover--translate-y-1 active--translate-y-scale-9 btn button--stroke tw-gap-5 group active--translate-y-2 tw-rounded-xl text-capitalize tw-px-8 tw-py-505 fw-medium btn-main hover-style-one" data-block="button">
+										<span class="button__flair"></span>
+										<span class="button__label">get started trial</span>
+									</a>
+								</div>
+							</div>
+						</div>
+						
+						<div class="col-lg-7">
+							<div class="ps-xl-5">
+								<div class="accordion common-accordion style-two style-two-three arrow-bg-orange" id="accordionExampleTwo">
+									   <!-- FAQ 1 -->
+    <div class="accordion-item tw-py-8 tw-px-40-px tw-rounded-xl bg-transparent border-0 mb-0" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
+        <h5 class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
+            <button class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent h5 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqOne" aria-expanded="false" aria-controls="faqOne">
+                What is a Restaurant POS System?
+            </button>
+        </h5>
+        <div id="faqOne" class="accordion-collapse collapse" data-bs-parent="#accordionExampleTwo">
+            <div class="accordion-body p-0 tw-mt-605 max-w-620-px">
+                <p class="tw-leading-212">
+                    A Restaurant Point of Sale (POS) system is a comprehensive solution that enables restaurants to process orders, manage payments, track inventory, and generate sales reports. Modern POS systems often integrate with online ordering platforms and CRM systems to streamline operations and enhance customer experience. 
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <!-- FAQ 2 -->
+    <div class="accordion-item tw-py-8 tw-px-40-px tw-rounded-xl bg-transparent border-0 mb-0" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
+        <h5 class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
+            <button class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent h5 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqTwo" aria-expanded="false" aria-controls="faqTwo">
+                How Does Cloud Kitchen Software Benefit My Business?
+            </button>
+        </h5>
+        <div id="faqTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExampleTwo">
+            <div class="accordion-body p-0 tw-mt-605 max-w-620-px">
+                <p class=" tw-leading-212">
+                    Cloud kitchen software is designed for delivery-only restaurants, allowing operators to manage multiple brands from a single platform. It offers features such as real-time inventory tracking, order management, and integration with delivery aggregators, enabling efficient operations without a physical storefront. 
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <!-- FAQ 3 -->
+    <div class="accordion-item tw-py-8 tw-px-40-px tw-rounded-xl bg-transparent border-0 mb-0" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
+        <h5 class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
+            <button class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent h5 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqThree" aria-expanded="false" aria-controls="faqThree">
+                What Features Should I Look for in a Restaurant CRM?
+            </button>
+        </h5>
+        <div id="faqThree" class="accordion-collapse collapse" data-bs-parent="#accordionExampleTwo">
+            <div class="accordion-body p-0 tw-mt-605 max-w-620-px">
+                <p class=" tw-leading-212">
+                    An effective restaurant Customer Relationship Management (CRM) system should centralize customer data, including dining preferences and order history. This information can be used to personalize marketing campaigns, enhance guest experiences, and build customer loyalty. 
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <!-- FAQ 4 -->
+    <div class="accordion-item tw-py-8 tw-px-40-px tw-rounded-xl bg-transparent border-0 mb-0" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
+        <h5 class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
+            <button class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent h5 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqFour" aria-expanded="false" aria-controls="faqFour">
+                Can a POS System Integrate with My Existing Tools?
+            </button>
+        </h5>
+        <div id="faqFour" class="accordion-collapse collapse" data-bs-parent="#accordionExampleTwo">
+            <div class="accordion-body p-0 tw-mt-605 max-w-620-px">
+                <p class=" tw-leading-212">
+                    Yes, many modern POS systems offer integration capabilities with accounting software, online ordering platforms, and CRM systems. This ensures seamless data flow, reduces manual work, and minimizes errors. 
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <!-- FAQ 5 -->
+    <div class="accordion-item tw-py-8 tw-px-40-px tw-rounded-xl bg-transparent border-0 mb-0" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="800">
+        <h5 class="accordion-header d-flex align-items-center justify-content-between tw-gap-3">
+            <button class="accordion-button shadow-none p-0 line-clamp-3 bg-transparent h5 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqFive" aria-expanded="false" aria-controls="faqFive">
+                What Are the Costs Associated with Implementing These Systems?
+            </button>
+        </h5>
+        <div id="faqFive" class="accordion-collapse collapse" data-bs-parent="#accordionExampleTwo">
+            <div class="accordion-body p-0 tw-mt-605 max-w-620-px">
+                <p class="text-neutral-500 tw-leading-212">
+                    Costs vary based on your operation size and features. POS systems may have monthly software fees, hardware costs, and payment processing charges. Cloud kitchen software and CRM systems may involve subscription fees, ranging from per-location to enterprise licenses. 
+                </p>
+            </div>
+        </div>
+    </div>
+
+
+								</div>
+
+							</div>
+						</div>
+					
+					</div>
+				</div>
+			</section>
+			<!-- ============================== Faq Section End ============================== -->
+
+				
+<section class="pt-120 pb-120 overflow-hidden position-relative">
+        <img src="assets/images/mash-gradient-bg6.png" alt="Gradient BG" class="position-absolute tw-start-0 top-0 w-100 h-100 z-n1">
+        
+        <div class="container max-w-1290-px">
+            <div class="row gy-5 align-items-center flex-wrap-reverse">
+                <div class="col-xl-6 aos-init aos-animate" data-aos="zoom-in" data-aos-anchor-placement="top-bottom" data-aos-duration="2000">
+                    <div class="position-relative tw-p-12 text-center">
+                        <img src="assets/images/rounded-circle.png" alt="Bg Round">
+    
+                        <img src="assets/images/round-icons-big.png" alt="Icons" class="position-absolute top-50 start-50 animation-rotate-right">
+                        <div class="position-absolute top-50 start-50 translate-middle">
+                            <h3 class=""><span class="counter is-visible" style="visibility: visible;">2</span>k+</h3>
+                            <span class="text-heading">Integration</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-6">
+                    <div class="">
+                        <div class="text-start mx-auto tw-mb-12">
+                            <div class="tw-mb-10">
+                                <h4 class="tw-mb-2 fw-bold line-clamp-1 font-caveat text-capitalize text-orange">With the restaurant’s favorite CRM</h4>
+                                <h2 class="splitTextStyleOne text-heading text-capitalize max-w-532-px" style="perspective: 100px;"><div class="split-line" style="display: block; text-align: start; position: relative; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);"> SaaSly-CRM designed for restaurateurs </div>
+								</h2>
+                                <p class="splitTextStyleOne text-neutral-500 tw-mt-8 max-w-570-px fw-medium tw-text-lg" style="perspective: 100px;"><div class="split-line" style="display: block; text-align: start; position: relative; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">Spend less time on admin, more time delighting your customers. </div><div class="split-line" style="display: block; text-align: start; position: relative; translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px);">Get started quickly and keep your restaurant operations in perfect order.</div></p>
+                            </div>
+                            <div class="tw-mt-9 aos-init" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="900">
+                                <a href="pricing-plan.html" class="hover--translate-y-1 active--translate-y-scale-9 btn button--stroke align-items-center justify-content-center tw-gap-5 group active--translate-y-2 tw-px-10 tw-py-505 fw-bold rounded-pill btn-main hover-style-one common-shadow-inset-one" data-block="button">
+                                    <span class="button__flair" style="translate: none; rotate: none; scale: none; transform: translate(-20%, -20%) scale(0, 0);"></span>
+                                    <span class="button__label">Get started</span>
+                                </a>
+                           </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+		
+ 		
+<!-- ================================= Section 9: Ready to Transform Your Restaurant Operations Start ============================== -->
+<section class="task-management pb-120 bg-green-light drag-rotate-element-section" id="contact">
+    <div class="container">
+     
+        <div class="bg-green-deep tw-rounded-3xl tw-py-100-px position-relative z-1">
+            <img src="assets/images/cta6-bg.png" alt="Hill Shape" class="position-absolute w-100 h-100 top-0 tw-start-0 z-n1">
+
+            <div class="tw-mb-8 text-center max-w-800-px mx-auto">
+                <div class="tw-py-3 tw-px-305 rounded-pill fw-medium text-capitalize tw-leading-none d-inline-flex align-items-center tw-gap-2 tw-mb-405 min-w-max text-white bg-white-13" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="600">
+                    <div>
+                        Simplify operations, boost profits, and delight your customers
+                    </div>
+                </div>
+                <h3 class="splitTextStyleOne text-white">
+                   Ready to Transform <br>Your Restaurant Operations?
+                </h3>
+
+                <div class="d-flex justify-content-center tw-gap-6 tw-mt-7" data-aos="fade-up" data-aos-duration="700">
+                    <a href="https://posbytz.com/demo" class="btn btn-main hover-style-one button--stroke d-inline-flex align-items-center justify-content-center tw-gap-2 tw-px-12 tw-py-4 fw-bold rounded-2xl">
+                        <span class="button__label">Book Your Free Demo</span>
+                    </a>
+                    
+                </div>
+            </div>
+
+         
+
+        </div>
+    </div>
+</section>
+<!-- ================================= Section 9 End ============================== -->
+
+     
+        <!-- ==================== Footer Two Start Here ==================== -->
+<footer class="footer position-relative z-1 mt-auto pt-120 rounded-top-45-px gradient-bg-three">
+  
+    <div class="pb-120">
+        <div class="container container-two">
+            <div class="row row-cols-xl-5 row-cols-lg-3 row-cols-sm-2 row-cols-1 gy-5">
+                <div class="col" data-aos="fade-up" data-aos-duration="600" >
+                    <div class="">
+                        <a href="index.php" class="link hover--translate-y-1 active--translate-y-scale-9 tw-mb-6">
+                            <img src="assets/images/logo.png" alt="" style="
+    width: 200px;
+">
+                        </a>
+                        <p class="text-white max-w-330-px tw-text-lg">PosBytz is a ERP software for Restaurant and Retail business on cloud with POS, Online ordering, Inventory, Accounting, CRM , Payroll and many more .</p>
+                        <div class="d-flex align-items-center tw-gap-305 tw-mt-8">
+                            <a href="https://www.facebook.com/posbytz/" class="tw-w-9 tw-h-9 bg-white tw-rounded-lg tw-text-lg d-flex justify-content-center align-items-center text-neutral-500 hover-bg-main-600 hover-text-white hover--translate-y-1 active--translate-y-scale-9">
+                                <i class="ph-bold ph-facebook-logo"></i>
+                            </a>
+                            <a href="https://x.com/posbytz" class="tw-w-9 tw-h-9 bg-white tw-rounded-lg tw-text-lg d-flex justify-content-center align-items-center text-neutral-500 hover-bg-main-600 hover-text-white hover--translate-y-1 active--translate-y-scale-9">
+                                <i class="ph-bold ph-twitter-logo"></i>
+                            </a>
+                            <a href="https://www.linkedin.com/in/posbytz-inc-05a909161/" class="tw-w-9 tw-h-9 bg-white tw-rounded-lg tw-text-lg d-flex justify-content-center align-items-center text-neutral-500 hover-bg-main-600 hover-text-white hover--translate-y-1 active--translate-y-scale-9">
+                                <i class="ph-bold ph-linkedin-logo"></i>
+                            </a>
+                           
+                        </div>
+                    </div>
+                </div>
+               <div class="col" data-aos="fade-up" data-aos-duration="800">
+    <div class="">
+        <h5 class="fw-medium text-white tw-mb-8">Quick Links</h5>
+        <ul class="d-flex flex-column tw-gap-4">
+            <li>
+                <a href="#home" class="hover-arrow-start text--white hover-text-white hover-underline hover--translate-y-1 active--translate-y-scale-9">Home</a>
+            </li>
+            <li>
+                <a href="#trusted-by" class="hover-arrow-start text--white hover-text-white hover-underline hover--translate-y-1 active--translate-y-scale-9">Trusted By</a>
+            </li>
+            <li>
+                <a href="#challenges-solutions" class="hover-arrow-start text--white hover-text-white hover-underline hover--translate-y-1 active--translate-y-scale-9">Challenges & Solutions</a>
+            </li>
+            <li>
+                <a href="#why-choose-us" class="hover-arrow-start text--white hover-text-white hover-underline hover--translate-y-1 active--translate-y-scale-9">Why Choose Us</a>
+            </li>
+            <li>
+                <a href="#why-posbytz" class="hover-arrow-start text--white hover-text-white hover-underline hover--translate-y-1 active--translate-y-scale-9">Why PosBytz</a>
+            </li>
+            <li>
+                <a href="#features" class="hover-arrow-start text--white hover-text-white hover-underline hover--translate-y-1 active--translate-y-scale-9">Features</a>
+            </li>
+            <li>
+                <a href="#success-stories" class="hover-arrow-start text--white hover-text-white hover-underline hover--translate-y-1 active--translate-y-scale-9">Success Stories</a>
+            </li>
+            <li>
+                <a href="#faq" class="hover-arrow-start text--white hover-text-white hover-underline hover--translate-y-1 active--translate-y-scale-9">FAQ</a>
+            </li>
+            <li class="mb-0">
+                <a href="#contact-demo" class="hover-arrow-start text--white hover-text-white hover-underline hover--translate-y-1 active--translate-y-scale-9">Contact / Demo</a>
+            </li>
+        </ul>
+    </div>
+</div>
+
+           <div class="col" data-aos="fade-up" data-aos-duration="800">
+    <div class="">
+        <h5 class="fw-medium text-white tw-mb-8">Product</h5>
+        <ul class="d-flex flex-column tw-gap-4">
+            <li>
+                <a href="#" class="hover-arrow-start text--white hover-text-white hover-underline hover--translate-y-1 active--translate-y-scale-9">PosBytz for Restaurants</a>
+            </li>
+            <li>
+                <a href="#" class="hover-arrow-start text--white hover-text-white hover-underline hover--translate-y-1 active--translate-y-scale-9">PosBytz for Retail</a>
+            </li>
+            <li>
+                <a href="#" class="hover-arrow-start text--white hover-text-white hover-underline hover--translate-y-1 active--translate-y-scale-9">CRM software for Restaurant and Retail</a>
+            </li>
+            <li>
+                <a href="#" class="hover-arrow-start text--white hover-text-white hover-underline hover--translate-y-1 active--translate-y-scale-9">Restaurant and Retail Accounting software</a>
+            </li>
+            <li>
+                <a href="#" class="hover-arrow-start text--white hover-text-white hover-underline hover--translate-y-1 active--translate-y-scale-9">Restaurant POS software</a>
+            </li>
+            <li>
+                <a href="#" class="hover-arrow-start text--white hover-text-white hover-underline hover--translate-y-1 active--translate-y-scale-9">Retail POS software</a>
+            </li>
+            <li>
+                <a href="#" class="hover-arrow-start text--white hover-text-white hover-underline hover--translate-y-1 active--translate-y-scale-9">Cloud based ERP software</a>
+            </li>
+            <li class="mb-0">
+                <a href="#" class="hover-arrow-start text--white hover-text-white hover-underline hover--translate-y-1 active--translate-y-scale-9">Cloud POS Software</a>
+            </li>
+        </ul>
+    </div>
+</div>
+
+                <div class="col" data-aos="fade-up" data-aos-duration="800">
+    <div class="">
+        <h5 class="fw-medium text-white tw-mb-8">Support</h5>
+        <ul class="d-flex flex-column tw-gap-4">
+            <li>
+                <a href="#" class="hover-arrow-start text--white hover-text-white hover-underline hover--translate-y-1 active--translate-y-scale-9">Help Center</a>
+            </li>
+            <li>
+                <a href="#" class="hover-arrow-start text--white hover-text-white hover-underline hover--translate-y-1 active--translate-y-scale-9">Status Monitor</a>
+            </li>
+            <li>
+                <a href="#" class="hover-arrow-start text--white hover-text-white hover-underline hover--translate-y-1 active--translate-y-scale-9">Contact Support</a>
+            </li>
+            <li class="mb-0">
+                <a href="#" class="hover-arrow-start text--white hover-text-white hover-underline hover--translate-y-1 active--translate-y-scale-9">Product Videos</a>
+            </li>
+        </ul>
+    </div>
+</div>
+
+             
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <!-- bottom Footer -->
+        <div class="border-top border-white-01 tw-py-8">
+            <div class="container container-two">
+                <div class="d-flex align-items-center justify-content-between tw-gap-4 flex-wrap">
+                    <p class="text--white text-center text-line-1 fw-normal"> 
+                        Copyright @ 2025
+                       PosBytz 
+                        All Rights Reserved
+                    </p>
+                   
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- ==================== Footer Two End Here ==================== -->
+  
+        
+  </div>
+</div>
+
+
+        <!-- Jquery js -->
+    <script src="assets/js/jquery-3.7.1.min.js"></script>
+    <!-- phosphor Js -->
+    <script src="assets/js/phosphor-icon.js"></script>
+    <!-- Bootstrap Bundle Js -->
+    <script src="assets/js/boostrap.bundle.min.js"></script>
+
+    <!-- GSAP js -->
+    <script src="assets/js/gsap.min.js"></script>
+    <!-- Scroll Trigger -->
+    <script src="assets/js/ScrollTrigger.min.js"></script>
+    <!-- ScrollSmoother -->
+    <script src="assets/js/ScrollSmoother.min.js"></script>
+    <!-- SplitText -->
+    <script src="assets/js/SplitText.min.js"></script>
+    <!-- custom GSAP -->
+    <script src="assets/js/custom-gsap.js"></script>
+
+    <!-- aos Js -->
+    <script src="assets/js/aos.js"></script>
+    <!-- counter up Js -->
+    <script src="assets/js/counterup.min.js"></script>
+    <!-- swiper Js -->
+    <script src="assets/js/swiper-bundle.min.js"></script>
+    <!-- Marquee js -->
+    <script src="assets/js/jquery.marquee.min.js"></script>
+    <!-- magnific js -->
+    <script src="assets/js/magnific-popup.min.js"></script>
+
+    <!-- main js -->
+    <script src="assets/js/main.js"></script>
+
+
+    </body>
+
+</html>
